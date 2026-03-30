@@ -1,0 +1,57 @@
+StoreID,Region,ProductID,Variable,Value
+1,East,101,ProductName,Widget A
+2,West,102,ProductName,Widget B
+1,East,103,ProductName,Widget C
+3,North,101,ProductName,Widget A
+2,West,104,ProductName,Widget D
+3,North,102,ProductName,Widget B
+1,East,105,ProductName,Widget E
+2,West,103,ProductName,Widget C
+1,East,101,Quantity,10
+2,West,102,Quantity,8
+1,East,103,Quantity,15
+3,North,101,Quantity,12
+2,West,104,Quantity,6
+3,North,102,Quantity,10
+1,East,105,Quantity,20
+2,West,103,Quantity,18
+1,East,101,Price,5.99
+2,West,102,Price,7.99
+1,East,103,Price,6.49
+3,North,101,Price,5.99
+2,West,104,Price,9.99
+3,North,102,Price,7.99
+1,East,105,Price,8.49
+2,West,103,Price,6.49
+1,East,101,CustomerID,1001
+2,West,102,CustomerID,1002
+1,East,103,CustomerID,1003
+3,North,101,CustomerID,1004
+2,West,104,CustomerID,1005
+3,North,102,CustomerID,1006
+1,East,105,CustomerID,1007
+2,West,103,CustomerID,1008
+1,East,101,Timestamp,2024-01-01 08:00:00
+2,West,102,Timestamp,2024-01-01 09:30:00
+1,East,103,Timestamp,2024-01-01 10:15:00
+3,North,101,Timestamp,2024-01-02 11:20:00
+2,West,104,Timestamp,2024-01-02 12:45:00
+3,North,102,Timestamp,2024-01-03 14:00:00
+1,East,105,Timestamp,2024-01-03 15:30:00
+2,West,103,Timestamp,2024-01-04 16:45:00
+1,East,101,TotalPrice,59.900000000000006
+2,West,102,TotalPrice,63.92
+1,East,103,TotalPrice,97.35000000000001
+3,North,101,TotalPrice,71.88
+2,West,104,TotalPrice,59.94
+3,North,102,TotalPrice,79.9
+1,East,105,TotalPrice,169.8
+2,West,103,TotalPrice,116.82000000000001
+1,East,101,YearMonth,2024-01
+2,West,102,YearMonth,2024-01
+1,East,103,YearMonth,2024-01
+3,North,101,YearMonth,2024-01
+2,West,104,YearMonth,2024-01
+3,North,102,YearMonth,2024-01
+1,East,105,YearMonth,2024-01
+2,West,103,YearMonth,2024-01
